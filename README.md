@@ -1,3 +1,6 @@
-# Hi there 👋
-- 🔭 I’m currently working on *university studying*  
-- 🌱 I’m currently learning **Python** + **AI**  
+# Hi there,I'm Johnny👋
+---
+
+## About Me
+I’m currently a university student  
+I’m currently learning **Python** + **AI**  
